@@ -1,4 +1,9 @@
 
+# Celeste:
+
+def subtract(a, b):
+    return a - b
+
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
     print("1. Addition")
