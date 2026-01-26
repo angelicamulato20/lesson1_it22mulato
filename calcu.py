@@ -1,4 +1,8 @@
+#ESCRUPOLO
+def multiply(a, b):
+    return a * b
 
+#MULATO
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
     print("1. Addition")
