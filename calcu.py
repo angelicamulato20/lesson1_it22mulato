@@ -2,6 +2,12 @@
 def multiply(a, b):
     return a * b
 
+#LAGNADA
+def divide(a, b):
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b
+
 #MULATO
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
