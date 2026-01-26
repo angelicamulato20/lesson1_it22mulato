@@ -1,3 +1,7 @@
+#CELESTE:
+def subtract(a, b):
+    return a - b
+
 #ESCRUPOLO
 def multiply(a, b):
     return a * b
